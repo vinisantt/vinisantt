@@ -14,10 +14,10 @@ ___
 ___
 **Stats**
 
-![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=vinisantt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=vinisantt&show_icons=true&theme=light) 
 
 <a href="https://github.com/vinisantt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantt&theme=radical&hide=css,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantt&theme=light&hide=css,html" />
 </a>
 
 ___
