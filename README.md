@@ -2,10 +2,10 @@ ___
 
 **About Me**
 
-- Age : 22y.o
+- Age : 23y.o
 - Skills : Python, Javascript , Java, Typescript and Kotlin.
 - School : Lutheran University Center of Palmas.
-- Course : Information Systems - 8th Period.
+- Course : Information Systems - Bachelor.
 - Learning: Flutter/Dart.
 ___
 ##  Contact Me :speech_balloon:
